@@ -8,6 +8,7 @@ public class Arraylisteg{
     cars.add("BMW");
     cars.add("Ford");
     cars.add("Mazda");
+    cars .add("jothi mazda");
     System.out.println(cars);
   }
 }
